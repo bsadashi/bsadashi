@@ -26,7 +26,7 @@
 | ISO 26262 Compliance  | Expert      | Leading ADAS safety Software analysis                          |
 | AUTOSAR Development   | Advanced    | Production integrations at TCS using Vector Tools                    |
 | C/C++ Programming     | Advanced    | Safety-critical firmware for production ECUs                             |
-| MATLAB/Simulink       | Expert      | Developed MAAB guideline checker tool adopted by 150+ engineers          |
+| MATLAB/Simulink       | Expert      | Developed MAAB guideline checker tool adopted by 150+ engineers  <br> Developed Safety Critical Software  upto ASIL D      |
 | Python (OpenCV)       | Intermediate| Road sign recognition using YOLO and color thresholding                  |
 | CAN/LIN Protocols     | Advanced    | Vector toolchain mastery in both roles                                   |
 | Devops          | Advanced    | Deployed High Availability servers [here](https://powerflashutility.bsadashi.work) and [here](https://geethapoojitha.work)                         |  
@@ -46,7 +46,7 @@
 | Project               | Key Achievements                                                           |
 |-----------------------|----------------------------------------------------------------------------|
 | ADAS Safety Monitor   | Performing SW Safety Analysis according to ISO 26262 part 6 ensuring compliance at Ford                                 |
-| FMVSS127 - PCA        | Developed SW Requirements and implemented Safety Software to achieve compliance with FMVSS127             |
+| FMVSS127 - AEB        | Developed SW Requirements and implemented Safety Software to achieve compliance with FMVSS127             |
 | Medical 3D Printing   | Created $12 blood centrifuge prototype with high efficacy                   |
 | Road Sign Recognition | Implemented YOLO-based system using MATLAB/OpenCV                          |
 | Battery Optimization  | Enhanced wireless sensor node battery life using KiBam models              |
