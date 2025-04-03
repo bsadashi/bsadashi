@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ADAS Safety Software
 - 🌱 I’m currently learning Rust, Kubernetes and KiCad
-- 👯 I’m looking to collaborate on Fault tolerant Software architecture for RTOS
+- 👯 I’m looking to collaborate on Fault Tolerant Software Architecture for RTOS
 - 🤔 I’m looking for help with kubernetes and Javascript
 - 💬 Ask me about Open Source [Hardware projects](https://github.com/elementosystems/Rpi-Pico-Relay-Controller/tree/main)
 - 📫 How to reach me: [linkedin](https://linkedin.com/in/bsadashi)
