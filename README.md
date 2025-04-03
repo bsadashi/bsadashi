@@ -29,6 +29,8 @@
 | MATLAB/Simulink       | Expert      | Developed MAAB guideline checker tool adopted by 150+ engineers          |
 | Python (OpenCV)       | Intermediate| Road sign recognition using YOLO and color thresholding                  |
 | CAN/LIN Protocols     | Advanced    | Vector toolchain mastery in both roles                                   |
+| Devops          | Advanced    | Deployed High Availability servers [here](https://powerflashutility.bsadashi.work) and [here](https://geethapoojitha.work)                         |  
+| Hardware Design | Intermediate | Proficient in developing [electronic circuits](https://github.com/elementosystems/Rpi-Pico-Relay-Controller/tree/main) |
 
 ## Tool Expertise
 | Tool Category         | Tools                                                                      |
@@ -60,7 +62,7 @@
 | Area                  | Experience                                                                |
 |-----------------------|----------------------------------------------------------------------------|
 | Development Processes | V-Model, Agile, ASPICE L2                                                  |
-| Safety Standards      | ISO 26262 (Part 4/6/8), MISRA-C 2012                                       |
+| Safety Standards      | ISO 26262 (Part 4,6,9), MISRA-C 2012                                       |
 | Quality Assurance     | Model-Based Design, MAAB Guidelines, ASPICE-compliant documentation        |
 
 ## Soft Skills
