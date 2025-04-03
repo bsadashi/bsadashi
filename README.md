@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Rust, Kubernetes and KiCad
 - 👯 I’m looking to collaborate on Fault tolerant Software architecture for Autonomous systems
 - 🤔 I’m looking for help with kubernetes and Javascript
-- 💬 Ask me about Open Source Hardware projects
-- 📫 How to reach me: https://linkedin.con/in/bsadashi
+- 💬 Ask me about Open Source [Hardware projects](https://github.com/elementosystems/Rpi-Pico-Relay-Controller/tree/main)
+- 📫 How to reach me: [linkedin](https://linkedin.com/in/bsadashi)
 - ⚡ Fun fact: I build End to End solutions for everyday problems we all face!
 
 ## Bharath Sadashivaiah - Skill Matrix
