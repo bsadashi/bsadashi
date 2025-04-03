@@ -71,11 +71,20 @@
 - **Problem Solving**: Resolved 50+ field issues pre-launch
 - **Communication**: Authored 12+ process documents for cross-team adoption
 
+
+## Open Source Projects
+1. [Vortexer Mixer](https://www.appropedia.org/Vortexer_mixer) : Lab focused Centrifuge Device
+2. [Raspberry Pi Based CCTV](https://www.myminifactory.com/object/3d-print-raspberry-pi-cctv-81241) : Indoor camera with night vision capability
+3. [Fume Extractor](https://www.appropedia.org/Fume_Extractor) : Fume extracting Device for use in labs
+4. [Pico Based Relay Board](https://github.com/elementosystems/Rpi-Pico-Relay-Controller/tree/main) : Circuit schematic and PCB design to control HV devices.
+5. [Pico Based Web USB Device](https://github.com/elementosystems/PicoWWebUSB) : Source code for Pico W to control GPIO pins using a webpage
+6. [JS based Website for WebUSB](https://github.com/elementosystems/picow_webapp) : web based application for controlling WebUSB devices
+
+
 ## Recognitions
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/a088a154-1754-4eaa-aa14-f60682390f29" />
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/e9fa00a7-fc38-4d80-a683-be21ee6ac4a2" />
-
 
 
