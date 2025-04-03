@@ -26,7 +26,7 @@
 | ISO 26262 Compliance  | Expert      | Leading ADAS safety Software analysis                          |
 | AUTOSAR Development   | Advanced    | Production integrations at TCS using Vector Tools                    |
 | C/C++ Programming     | Advanced    | Safety-critical firmware for production ECUs                             |
-| MATLAB/Simulink       | Expert      | Developed MAAB guideline checker tool adopted by 150+ engineers  <br> Developed Safety Critical Software  upto ASIL D      |
+| MATLAB/Simulink       | Expert      | Developed MAAB guideline checker tool adopted by 150+ engineers  <br> Developed Safety Critical Models upto ASIL D      |
 | Python (OpenCV)       | Intermediate| Road sign recognition using YOLO and color thresholding                  |
 | CAN/LIN Protocols     | Advanced    | Vector toolchain mastery in both roles                                   |
 | Devops          | Advanced    | Deployed High Availability servers [here](https://powerflashutility.bsadashi.work) and [here](https://geethapoojitha.work)                         |  
