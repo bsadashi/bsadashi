@@ -43,7 +43,8 @@
 ## Project Highlights
 | Project               | Key Achievements                                                           |
 |-----------------------|----------------------------------------------------------------------------|
-| ADAS Safety Monitor   | Performed SW Safety Analysis according to ISO 26262 part 6 ensuring compliance at Ford                                 |
+| ADAS Safety Monitor   | Performing SW Safety Analysis according to ISO 26262 part 6 ensuring compliance at Ford                                 |
+| FMVSS127 - PCA        | Developed SW Requirements and implemented Safety Software to achieve compliance with FMVSS127             |
 | Medical 3D Printing   | Created $12 blood centrifuge prototype with high efficacy                   |
 | Road Sign Recognition | Implemented YOLO-based system using MATLAB/OpenCV                          |
 | Battery Optimization  | Enhanced wireless sensor node battery life using KiBam models              |
