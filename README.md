@@ -23,7 +23,7 @@
 ## Technical Proficiencies
 | Skill                 | Proficiency | Evidence                                                                 |
 |-----------------------|-------------|--------------------------------------------------------------------------|
-| ISO 26262 Compliance  | Expert      | Leading ADAS safety Software analysis                          |
+| ISO 26262 Compliance  | Expert      | Leading ADAS Safety Software analysis                          |
 | AUTOSAR Development   | Advanced    | Production integrations at TCS using Vector Tools                    |
 | C/C++ Programming     | Advanced    | Safety-critical firmware for production ECUs                             |
 | MATLAB/Simulink       | Expert      | Developed MAAB guideline checker tool adopted by 150+ engineers  <br> Developed Safety Critical Models upto ASIL D      |
