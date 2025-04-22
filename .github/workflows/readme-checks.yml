@@ -2,7 +2,7 @@ name: Check README Links
 
 on:
   schedule:
-    - cron: "0 9 * * 1"  #
+    - cron: "0 9 * * 1"
   push:
     branches:
       - main
@@ -16,5 +16,6 @@ jobs:
       - name: Check links in README.md
         uses: umbrelladocs/action-linkspector@v1
         with:
-          file-path: 'README.md'
-          use-verbose-mode: 'yes'
+          github_token: ${{ secrets.GH_TOKEN }}
+          reporter: github-pr-check
+          show_stats: true
