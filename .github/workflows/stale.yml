@@ -3,7 +3,7 @@ name: Mark stale issues and pull requests
 
 on:
   schedule:
-    - cron: '05 21 * * *'
+    - cron: '17 21 * * *'
 
 jobs:
   stale:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/stale@v9
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GH_TOKEN }}
           days-before-stale: 30
           days-before-close: 7
           stale-issue-message: >
